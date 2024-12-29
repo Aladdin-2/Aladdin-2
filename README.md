@@ -1,12 +1,11 @@
 - 👋 Hi, My name is Aladdin Biyabangerd
 - 👀 I’m interested in programming language
 - 🌱 I’m currently learning Java BackEnd
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Aladdin-2/Aladdin-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me 💡
+🌱 I am constantly learning and growing in software development.
+✅ I work on diverse tasks to improve my skills and understanding.
+📚 My focus is on solving problems, building projects, and showcasing progress.
+What to Expect 🔍
+Repositories: Most repositories contain tasks, projects, and examples of my learning journey.
+Goals: Reach a strong level of expertise in software development.
